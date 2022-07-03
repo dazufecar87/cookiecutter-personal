@@ -1,0 +1,13 @@
+{
+    "project_title": "Cookiecutter Personal",
+    "project_slug": "{{ cookiecutter.project_title.lower().replace(' ', '_').replace('-', '_') }}",
+    "project_author_name": "Daniel Felipe Zuluaga Cardenas",
+    "github_user": "dazufecar87@gmail.com",
+    "project_description": "A short description of the project.",
+    "project_packages": [
+        "All",
+        "Minimal"],
+    "python_version": "3.7",
+    "project_version": "0.1.0",
+    "local_key": "mintransporte_rsa.pub"
+}
